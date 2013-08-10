@@ -1,7 +1,6 @@
 body {
 	padding-top: 20px;
 	padding-bottom: 40px;
-	background: url('../images/subtle_grunge.png');
 }
 
 /* Custom container */
@@ -19,12 +18,17 @@ body {
 	text-align: center;
 }
 .jumbotron h1 {
-	font-size: 72px;
+	font-size: 54px;
 	line-height: 1;
+	color: #3BAFDA;
 }
 .jumbotron .btn {
 	font-size: 21px;
 	padding: 14px 24px;
+}
+
+.lead {
+	color: #4FC1E9;
 }
 
 /* Supporting marketing content */
